@@ -2,8 +2,8 @@
 
 Projeto final da disciplina **Banco de Dados I** (2026.1 A) do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas — **IFPB**.
 
-Professor: André Atanasio Maranhão Almeida
-Equipe: Erick Lucas Da Silva Santos,  Maria Isabel Feliciano de Melo, Wesley Trajano Cardoso do Carmo
+Professor: André Atanasio Maranhão Almeida                                                         
+Equipe: Erick Lucas Da Silva Santos, Maria Isabel Feliciano de Melo, Wesley Trajano Cardoso do Carmo
 , 
 ## 📖 Sobre o projeto
 
